@@ -1,0 +1,13 @@
+{
+  "status": "ACCEPTED",
+  "summary": "Replace front brake pads",
+  "notes": "Updated quantity without replacing the part row.",
+  "laborRate": 100.00,
+  "laborTime": 2.00,
+  "partsNeeded": [
+    {
+      "partId": "11111111-1111-1111-1111-111111111111",
+      "quantity": 3
+    }
+  ]
+}

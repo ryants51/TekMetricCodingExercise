@@ -1,0 +1,18 @@
+{
+  "vehicleId": "99999999-9999-9999-9999-999999999999",
+  "status": "PENDING",
+  "summary": "Replace front brake pads",
+  "notes": "Duplicate part IDs are consolidated into one quantity.",
+  "laborRate": 100.00,
+  "laborTime": 1.00,
+  "partsNeeded": [
+    {
+      "partId": "11111111-1111-1111-1111-111111111111",
+      "quantity": 1
+    },
+    {
+      "partId": "11111111-1111-1111-1111-111111111111",
+      "quantity": 2
+    }
+  ]
+}

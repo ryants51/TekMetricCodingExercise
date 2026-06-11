@@ -1,0 +1,13 @@
+{
+  "status": "ACCEPTED",
+  "summary": "Replace ignition components",
+  "notes": "Updated after technician inspection.",
+  "laborRate": 120.00,
+  "laborTime": 1.00,
+  "partsNeeded": [
+    {
+      "partId": "22222222-2222-2222-2222-222222222222",
+      "quantity": 4
+    }
+  ]
+}

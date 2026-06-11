@@ -1,0 +1,9 @@
+{
+  "vehicleId": "99999999-9999-9999-9999-999999999999",
+  "status": "PENDING",
+  "summary": "Perform diagnostic inspection",
+  "notes": "Labor-only inspection before repair approval.",
+  "laborRate": 150.00,
+  "laborTime": 0.75,
+  "partsNeeded": []
+}
